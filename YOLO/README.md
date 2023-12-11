@@ -1,6 +1,6 @@
 # ML_Algorithms
 
-once you run the first cell the yolov5 fle is updated in the folder section 
+Once you run the first cell the yolov5 file is updated in the folder section 
 Go to yolov5/data/coc128.yaml
 Make the below changes to /content/yolov5/data/coco128.yaml:
 
@@ -12,8 +12,8 @@ Make the below changes to /content/yolov5/data/coco128.yaml:
 
 then rename the file to new_project.yaml
 
-then continue 
+then continue with the other cells 
 
 Hope this makes it easy for few who are starting out 
 
-i followed this Youtube video : https://www.youtube.com/watch?v=GRtgLlwxpc4&t=946s
+I followed this Youtube video : https://www.youtube.com/watch?v=GRtgLlwxpc4&t=946s
