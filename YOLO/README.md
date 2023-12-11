@@ -15,4 +15,5 @@ then rename the file to new_project.yaml
 then continue 
 
 Hope this makes it easy for few who are starting out 
+
 i followed this Youtube video : https://www.youtube.com/watch?v=GRtgLlwxpc4&t=946s
