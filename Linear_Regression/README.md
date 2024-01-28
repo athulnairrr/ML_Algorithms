@@ -1,8 +1,37 @@
 # Linear_Regression_Second_Hand_Car_Prices
 Dataset: https://www.kaggle.com/datasets/mayankpatel14/second-hand-used-cars-data-set-linear-regression
 
-
 Kaggle Notebook : https://www.kaggle.com/code/athulnair8101/linear-regression-second-hand-car-prices
+
+# Linear Regression Overview
+
+## What is Linear Regression?
+
+Linear Regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. It assumes a linear relationship, where changes in the independent variables correspond to a linear change in the dependent variable.
+
+## What is it Used For?
+
+Linear Regression is primarily employed for predicting the value of a continuous dependent variable based on the values of one or more independent variables. It finds applications in various fields for tasks such as:
+
+1. **Prediction:** Forecasting future values based on historical data.
+2. **Trend Analysis:** Identifying trends and patterns in datasets.
+3. **Correlation Analysis:** Assessing the strength of relationships between variables.
+
+## Why Learn Linear Regression?
+
+- **Simplicity:** Linear Regression is a straightforward and interpretable method, making it a suitable starting point for predictive modeling.
+
+- **Versatility:** Applicable in a wide range of domains, from finance and economics to biology and social sciences.
+
+- **Foundation for Advanced Models:** Understanding Linear Regression provides a solid foundation for more complex machine learning algorithms.
+
+## Key Concepts in Linear Regression:
+
+- **Coefficients:** Represent the weights assigned to each independent variable in predicting the dependent variable.
+
+- **Intercept:** Represents the predicted value of the dependent variable when all independent variables are set to zero.
+
+- **Residuals:** Differences between the actual and predicted values, used to assess the model's performance.
 
 # Steps taken into consideration when making this Project
 
